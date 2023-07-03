@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zanpiee
+- 👋 Hi, I’m @NorizanShafiee
 - 👀 I’m interested in doing Excel, Python, SQL, Data Visualisation Project
 - 🌱 I’m currently further learning in Python & SQL
 - 💞️ I am a freelance Engineer and I’m looking to collaborate in doing some Python & SQL Project
