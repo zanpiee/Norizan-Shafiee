@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zanpiee
-- 👀 I’m interested in doing Python, SQL, Data Visualisation Project
+- 👀 I’m interested in doing Excel, Python, SQL, Data Visualisation Project
 - 🌱 I’m currently further learning in Python & SQL
 - 💞️ I am a freelance Engineer and I’m looking to collaborate in doing some Python & SQL Project
 -  I enjoy working on interesting projects and have contributed to several notable ones. Here are a few highlights:
